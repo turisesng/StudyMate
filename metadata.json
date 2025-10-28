@@ -1,0 +1,7 @@
+{
+  "name": "StudyMate AI",
+  "description": "An AI-powered tool to transform lecture transcripts or spoken words into concise summaries and flashcards, making studying more efficient and effective.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
